@@ -1,6 +1,5 @@
-# Fokin-ZIP-Decompressor
-
 ![](https://github.com/sergiogh7/Fokin-ZIP-Decompressor/blob/img/Fokin%20ZIP%20Decompressor%20-%20Documentation_1.png)
+![](https://github.com/sergiogh7/Fokin-ZIP-Decompressor/blob/img/screenshot.PNG)
 ![](https://github.com/sergiogh7/Fokin-ZIP-Decompressor/blob/img/Fokin%20ZIP%20Decompressor%20-%20Documentation_2.png)
 ![](https://github.com/sergiogh7/Fokin-ZIP-Decompressor/blob/img/Fokin%20ZIP%20Decompressor%20-%20Documentation_3.png)
 ![](https://github.com/sergiogh7/Fokin-ZIP-Decompressor/blob/img/Fokin%20ZIP%20Decompressor%20-%20Documentation_4.png)
