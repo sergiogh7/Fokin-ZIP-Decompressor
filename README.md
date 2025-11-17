@@ -1,4 +1,4 @@
-# SOLO para Windows!  |  ONLY for Windows!  |  Alleen voor Windows!
+# SOLO para Windows!  |  ONLY for Windows!
 ![](https://github.com/sergiogh7/Fokin-ZIP-Decompressor/blob/img/Fokin%20ZIP%20Decompressor%20-%20Documentation_1.png)
 ![](https://github.com/sergiogh7/Fokin-ZIP-Decompressor/blob/img/screenshot.PNG)
 ![](https://github.com/sergiogh7/Fokin-ZIP-Decompressor/blob/img/Fokin%20ZIP%20Decompressor%20-%20Documentation_2.png)
